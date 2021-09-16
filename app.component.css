@@ -1,0 +1,27 @@
+.container-fluid
+{
+    width: 1000px;
+}
+
+form{
+    margin-top: 40px;
+}
+
+.form-group{
+    margin-top: 20px;
+}
+
+input.ng-invalid
+{
+    border-color: red;
+}
+
+input.ng-valid
+{
+    border-color: green;
+}
+
+.error
+{
+    color: red;
+}
